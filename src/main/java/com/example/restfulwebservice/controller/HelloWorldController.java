@@ -16,8 +16,4 @@ public class HelloWorldController {
         return new HelloWorldBean("Hello World");
     }
     
-    @GetMapping("/hellog-world-boot")
-    public HelloWorldBean helloBeanBoot(){
-        return new HelloWorldBean("Start git-hub");
-    }    
-}
+#}
