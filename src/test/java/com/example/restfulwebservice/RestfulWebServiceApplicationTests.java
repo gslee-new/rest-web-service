@@ -8,6 +8,7 @@ class RestfulWebServiceApplicationTests {
 
     @Test
     void contextLoads() {
+        String abc;
     }
 
 }
